@@ -7,6 +7,12 @@
 
 A chrome extension built using React.js where users input a word and the extension returns 10 synonyms if found. 
 
+## API 
+
+Used Thesaurus by API-Ninjas to fetch data of synonyms 
+[API LINK](https://rapidapi.com/apininjas/api/thesaurus-by-api-ninjas/playground/apiendpoint_580eb0e1-6499-4c6c-b293-2893e47af0b8)
+
+
 ## Screens 
 
 <img width="400" alt="IMG_0779" src="https://github.com/user-attachments/assets/09f43ba3-2003-4717-b527-2f97ee05de35" />
