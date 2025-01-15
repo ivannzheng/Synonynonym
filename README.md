@@ -15,10 +15,10 @@ Used Thesaurus by API-Ninjas to fetch data of synonyms
 
 ## Screens 
 
-<img width="400" alt="IMG_0779" src="https://github.com/user-attachments/assets/09f43ba3-2003-4717-b527-2f97ee05de35" />
+<img width="400" alt="IMG_0779" src="https://github.com/user-attachments/assets/09f43ba3-2003-4717-b527-2f97ee05de35"/>
 
-<img width="400" alt="IMG_8164" src="https://github.com/user-attachments/assets/292d7e48-c41f-4677-ac33-5bac4ef17f2d" />
+<img width="400" alt="IMG_8164" src="https://github.com/user-attachments/assets/292d7e48-c41f-4677-ac33-5bac4ef17f2d"/>
 
-<img width="400" alt="IMG_8748" src="https://github.com/user-attachments/assets/4937910d-ddb3-43e5-8562-b7e9221a640a" />
+<img width="400" alt="IMG_8748" src="https://github.com/user-attachments/assets/4937910d-ddb3-43e5-8562-b7e9221a640a"/>
 
 
